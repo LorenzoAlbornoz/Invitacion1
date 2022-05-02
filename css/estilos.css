@@ -141,6 +141,12 @@ h4 {
   display: block;
   margin: auto; }
 
+.fa-dress-code {
+  height: 60px;
+  color: #becfc2;
+  display: block;
+  margin: auto; }
+
 .img-test {
   border-radius: 50%;
   height: 350px;
@@ -166,7 +172,7 @@ h4 {
   .letraCursiva {
     font-size: 25px; }
   .letraCursiva1 {
-    font-size: 20px; }
+    font-size: 21px; }
   p {
     font-size: 12.5px; }
   .fa-champagne-glasses {
@@ -306,14 +312,13 @@ h4 {
   border-color: #fff;
   background-color: #cb4f57;
   line-height: 46px;
-  min-width: 200px;
-  font-size: 12px;
+  font-size: 15px;
   font-weight: 700;
   text-transform: uppercase;
-  text-align: center;
-  border-top-left-radius: 20px;
-  border-bottom-right-radius: 20px;
-  border: 1px solid transparent; }
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border: 12.5px solid transparent;
+  text-decoration: none; }
 
 footer {
   background-color: #a01c24;

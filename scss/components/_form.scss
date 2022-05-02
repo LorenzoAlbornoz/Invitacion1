@@ -59,17 +59,16 @@
   }
   
   #btn-notificacion1, 
-  #btn-notificacion{
-  color: #fff;
-      border-color: #fff;
-      background-color: #cb4f57;
-      line-height: 46px;
-      min-width: 200px;
-      font-size: 12px;
-      font-weight: 700;
-      text-transform: uppercase;
-      text-align: center;
-      border-top-left-radius: 20px;
-      border-bottom-right-radius: 20px;
-      border: 1px solid transparent;
-    }
+  #btn-notificacion {
+    color: #fff;
+    border-color: #fff;
+    background-color: #cb4f57;
+    line-height: 46px;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border: 12.5px solid transparent;
+    text-decoration: none;
+  }
