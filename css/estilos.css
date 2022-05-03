@@ -20,6 +20,9 @@
 .section4 {
   margin: 12px 0px 12px 0; }
 
+.section1 {
+  display: flex; }
+
 p {
   font-size: 20px;
   margin-top: 5px; }
@@ -308,7 +311,6 @@ h4 {
 .form__input--submit:hover {
   background-color: #be3039; }
 
-#btn-notificacion1,
 #btn-notificacion {
   color: #fff;
   border-color: #fff;
